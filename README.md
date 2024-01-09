@@ -7,7 +7,7 @@ This repository serves as an introductory tutorial on using the Fetch API to mak
 
 The Fetch API provides a modern and flexible way to make HTTP requests in the browser. It is a simpler and more powerful alternative to traditional methods like XMLHttpRequest.
 
-## Tutorial Highlights
+## Repository Highlights
 
 - Understanding the basics of the Fetch API.
 - Creating a Fetch API sandbox to experiment with making requests.
